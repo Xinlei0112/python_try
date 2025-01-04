@@ -7,4 +7,4 @@ if __name__ == "__main__":
     a = torch.load("a.pt")
     print(a)
     end_time = time()
-    print(end_time-start_time)
+    print(end_time-start_time,':)')
